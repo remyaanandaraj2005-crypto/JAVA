@@ -1,4 +1,4 @@
-public class Product {
+ class Product {
     int id;
     String name;
     float price;
@@ -27,3 +27,4 @@ public class Product {
         p3.show();
     }
 }
+
